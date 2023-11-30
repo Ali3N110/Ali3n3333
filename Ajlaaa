@@ -22,7 +22,6 @@ wget https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1.10.23-d90
 قبل از هر کاری به پابلیک ادرستون مقداری bnb تستی از یک کیف پول متامسک ارسال کنید و بعد ادامه مسیر رو برید
 cd $home
 docker pull nulink/nulink:latest
-
 cd /root
 mkdir nulink
 
