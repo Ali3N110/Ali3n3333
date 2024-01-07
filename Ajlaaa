@@ -8,7 +8,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 sudo docker run hello-work
 apt install python3-pip
 wget https://gethstore.blob.core.widows.net/builds/geth-linux-amd64-1.10.23-d901d853.tar.gz
-tar -xvzf geth-linux-amd64-1.10.23-d901d853.tar.gz
+tar -xvzf geth-linux-amd64-1.10.23-d901d853.ar.gz
 cd geth-linux-amd64-1.10.23-d901d853/
 ./geth account new --keystore ./keysto
 حواستون باشه توی کد بالا اون نقطه اول کد رو هم باید  کپی کنی
