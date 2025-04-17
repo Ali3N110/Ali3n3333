@@ -35,6 +35,9 @@ wget https://filetransfer.nulink.org/release/nulink-0.2.0-py3-none-any.whl
 pip install nulink-0.2.0-py3-none-any.whl
 
 pip install --upgrade pip
+git add .
+git commit -m "Minor update"
+git push
 
 source /root/nulink-venv/bin/activate
 
